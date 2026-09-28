@@ -1,0 +1,20 @@
+.header {
+  background: rgb(3, 119, 173);
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.header .wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right {
+  text-align: right;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
